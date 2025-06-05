@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>할 일 목록</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <style>
+        input[type='checkbox'] {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-sm">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6">
+                <h1>To Do List</h1>
+                <hr>
+                <form action="./create" method="post">
+                    {% csrf_token %}
+                    <div class="input-group mb-3">
+                        <label for="todo" class="input-group-text">할 일</label>
+                        <input autofocus name="title" type="text" class="form-control" id="todo" placeholder="할 일을 입력해주세요.">
+                        <button class="btn btn-outline-primary" type="submit">등록</button>
+                    </div>
+                </form>
+                <hr>
+                <h3>진행 목록</h3>
+                <table class="table table-bordered text-center align-middle">
+                    <thead>
+                        <tr class="table-dark">
+                            <th>✅</th>
+                            <th class="text-start">할 일</th>
+                            <th>🔄</th>
+                            <th>⭕</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for todo in ing_list %}
+                        <tr {% if todo.status == 'DONE' %} class="table-success" {% endif %} >
+                            <td>
+                                <form action="./done" method="post">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="no" value="{{todo.no}}">
+                                    <input class="form-check-input" type="checkbox"
+                                            onchange="this.form.submit()"
+                                            {% if todo.status == 'DONE' %} checked {% endif %}>
+                                </form>
+                            </td>
+                            <td class="text-start">{{todo.title}}</td>
+                            <td>
+                                <form action="./cancle" method="post">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="no" value="{{todo.no}}">
+                                    <button class="btn btn-primary">
+                                        <i class="bi bi-arrow-clockwise"></i>
+                                    </button>
+                                </form>
+                            </td>
+                            <td>
+                                <form action="./delete" method="post">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="no" value="{{todo.no}}">
+                                    <button class="btn btn-danger">
+                                        <i class="bi bi-trash3"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr>
+                            <td colspan="3" class="text-center text-muted">조회된 데이터가 없습니다.</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                <hr>
+                <h3>대기 목록</h3>
+                <table class="table table-bordered text-center align-middle">
+                    <thead>
+                        <tr class="table-dark">
+                            <th>✅</th>
+                            <th class="text-start">할 일</th>
+                            <th>⭕</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for todo in wait_list %}
+                        <tr>
+                            <td>
+                                <form action="./ing" method="post">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="no" value="{{todo.no}}">
+                                    <button type="submit" class="btn btn-outline-primary">진행</button>
+                                </form>
+                            </td>
+                            <td class="text-start">{{todo.title}}</td>
+                            <td>
+                                <form action="./delete" method="post">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="no" value="{{todo.no}}">
+                                    <button class="btn btn-danger">
+                                        <i class="bi bi-trash3"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr>
+                            <td colspan="3" class="text-center text-muted">조회된 데이터가 없습니다.</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+</body>
+</html>
