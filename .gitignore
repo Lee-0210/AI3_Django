@@ -1,0 +1,25 @@
+################################
+# 📂 Python / Django 관련 무시 #
+################################
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+db.sqlite3
+.env
+*.env
+
+# Django migrations 제외하고 패키지화된 것들만 무시
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+# (원한다면 *.py 도 제외 가능)
+
+# 가상환경
+venv/
+myvenv/
+
+# IDE / 에디터
+.vscode/
+.idea/
