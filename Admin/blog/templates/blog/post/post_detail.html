@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>게시글 조회 - {{post.title}}</title>
+</head>
+<body>
+    <h1>{{post.title}}</h1>
+    <hr>
+    <table border="1">
+        <tr>
+            <th>작성자</th>
+            <td>{{post.user.nickname}}</td>
+        </tr>
+        <tr>
+            <th>작성일</th>
+            <td>{{post.created_at|date:"Y-m-d H:i:s"}}</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="post-content">
+                    {{post.content|safe}}
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
