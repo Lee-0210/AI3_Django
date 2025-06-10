@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 *.egg
-db.sqlite3
+# db.sqlite3
 .env
 *.env
 

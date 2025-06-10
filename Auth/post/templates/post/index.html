@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}메인{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <h1>메인 화면</h1>
+    <div class="px-4 py-5 my-5 text-center"> 
+      <img class="d-block mx-auto mb-4" src="https://i.imgur.com/fzADqJo.png"
+        alt="" width="100">
+      <h1 class="display-5 fw-bold text-body-emphasis">Django Auth</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">
+          Django Auth는 Django로 만든 인증 시스템입니다. <br>
+          회원가입, 로그인, 로그아웃 기능을 제공합니다.
+          이 프로젝트는 Django의 기본 인증 시스템을 사용하여 구현되었습니다. 
+          <strong>시작하려면 회원가입 후 로그인하세요!</strong>
+        </p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center"> 
+          <a href="/accounts/login" class="btn btn-primary btn-lg px-4 gap-3">
+            로그인
+          </a> 
+          <a href="/accounts/signup" class="btn btn-outline-secondary btn-lg px-4">
+            회원가입
+          </a> 
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+{% endblock %}
