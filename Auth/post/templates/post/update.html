@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}게시글 수정{% endblock %}
+
+{% block content %}
+    <div class="container my-5 py-5">
+        <h1 class="text-center fs-2">게시글 수정</h1>
+        <form action="/post/update/{{post.id}}/" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="" class="form-label">제목</label>
+                {{ form.title }}
+            </div>
+            <div class="form-group">
+                <label for="" class="form-label">내용</label>
+                {{ form.content }}
+            </div>
+            <div class="d-grid row-gap-3 my-4">
+                <button type="submit" class="btn btn-primary">수정</button>
+                <button onclick="deletePost()" type="button" class="btn btn-danger">삭제</button>
+                <a href="/post/list/" class="btn btn-secondary">목록</a>
+            </div>
+        </form>
+        <form id="delete-form" action="/post/delete/{{post.id}}/" method="post">
+            {% csrf_token %}
+        </form>
+    </div>
+
+    <script>
+        function deletePost() {
+            const check = confirm('정말로 삭제하시겠습니까?')
+            const form = document.getElementById('delete-form')
+            if(check) {
+                form.submit()
+            } else {
+                return false
+            }
+        }
+    </script>
+{% endblock %}

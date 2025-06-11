@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}403 권한 없음{% endblock %}
+
+{% block content %}
+    <div class="container my-5 py-5">
+        <h1 class="fs-2 text-danger">403 - 접근 거부 에러</h1>
+        <p>
+            요청하신 페이지에 접근할 권한이 없습니다. <br>
+            관리자에게 문의하시거나 다른 페이지로 이동해 주세요.
+        </p>
+        <a href="/" class="btn btn-outline-primary">메인화면</a>
+    </div>
+{% endblock %}

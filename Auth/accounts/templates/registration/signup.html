@@ -3,26 +3,52 @@
 {% block title %}회원가입{% endblock %}
 
 {% block content %}
-  <div class="container">
-    <form method="post" action="/accounts/signup/" class="mt-5">
-        {% csrf_token %}
-        <!-- {{ form.as_p }} -->
-        <!-- {{ form.username.label_tag }} -->
-        <div class="form-group">
-            <label for="{{ form.username.id_for_label }}">아이디</label>
-            {{ form.username }}
-        </div>
-        <div class="form-group">
-            <label for="{{ form.password1.id_for_label }}">비밀번호</label>
-            {{ form.password1 }}
-        </div>
-        <div class="form-group">
-            <label for="{{ form.password2.id_for_label }}">비밀번호 확인</label>
-            {{ form.password2 }}
-        </div>
-        <div class="d-grid my-3">
-          <button type="submit" class="btn btn-primary">가입하기</button>
-        </div>
-    </form>
+  <div class="container my-5 py-5">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 col-lg-4">
+        <h1 class="mt-5 fs-2 text-center">회원가입</h1>
+        <form method="post" action="/accounts/signup/" class="my-2">
+            {% csrf_token %}
+            <!-- {{ form.as_p }} -->
+            <!-- {{ form.username.label_tag }} -->
+            <div class="form-group">
+                <label for="{{ form.username.id_for_label }}" class="form-label">아이디</label>
+                {{ form.username }}
+            </div>
+            <div class="form-group">
+                <label for="{{ form.password1.id_for_label }}" class="form-label">비밀번호</label>
+                {{ form.password1 }}
+            </div>
+            <div class="form-group">
+                <label for="{{ form.password2.id_for_label }}" class="form-label">비밀번호 확인</label>
+                {{ form.password2 }}
+            </div>
+            <div class="form-group">
+                <label for="{{ form.nickname.id_for_label }}" class="form-label">닉네임</label>
+                {{ form.nickname }}
+            </div>
+            <div class="form-group my-2">
+                <label for="{{ form.gender.id_for_label }}" class="form-label">성별</label>
+                <div class="d-flex justify-content-center align-items-center gap-3">
+                  <div class="form-check">
+                    <input type="radio" class="form-check-input" id="id_gender_male" name="gender" value="남자" />
+                    <label for="id_gender_male">남자</label>
+                  </div>
+                  <div class="form-check">                  
+                    <input type="radio" class="form-check-input" id="id_gender_female" name="gender" value="여자" />
+                    <label for="id_gender_female">여자</label>
+                  </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="{{ form.age.id_for_label }}" class="form-label">나이</label>
+                {{ form.age }}
+            </div>
+            <div class="d-grid my-3">
+              <button type="submit" class="btn btn-primary">가입하기</button>
+            </div>
+        </form>
+      </div>
+    </div>
   </div>
 {% endblock %}

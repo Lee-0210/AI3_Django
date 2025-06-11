@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}게시글 상세{% endblock %}
+
+{% block content %}
+    <div class="container my-5 py-5">
+        <h1 class="text-center fs-2">게시글 상세</h1>
+        <form action="/post/create/" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="" class="form-label">제목</label>
+                <input type="text" name="title" id="title" class="form-control" value="{{post.title}}">
+            </div>
+            <div class="form-group">
+                <label for="" class="form-label">내용</label>
+                <textarea name="content" id="content" class="form-control" rows="5">{{post.content}}</textarea>
+            </div>
+            <div class="d-grid row-gap-3 my-4">
+                <a href="/post/update/{{post.id}}" class="btn btn-primary">수정</a>
+                <a href="/post/list/" class="btn btn-secondary">목록</a>
+            </div>
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}메인{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="text-center mb-5">게시글 목록</h1>
+    <table class="table table-dark table-striped text-center">
+        <tr>
+            <th>글번호</th>
+            <th>작성자</th>
+            <th>제목</th>
+            <th colspan="3">내용</th>
+            <th>작성날짜</th>
+        </tr>
+        {% for post in posts %}
+        <tr>
+            <th>{{ post.id }}</th>
+            <th>{{ post.user.username }}</th>
+            <th>
+                <a href="/post/{{post.id}}">{{ post.title }}</a>
+            </th>
+            <th colspan="3">{{ post.content }}</th>
+            <th>{{ post.created_at|date:"Y-m-d H:m:i" }}</th>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

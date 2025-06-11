@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}로그인{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-12 col-md-8 col-lg-4">
+        <main class="form-signin w-100 m-auto">
+          <form action="/accounts/login/" method="post">
+            {% csrf_token %}
+            <div class="d-flex justify-content-center">
+              <img class="mb-4" src="https://i.imgur.com/fzADqJo.png" alt="" width="100" >
+            </div>
+            <h1 class="h3 mb-3 fw-normal text-center">로그인</h1>
+            <div class="form-floating">
+              <!-- <input type="text" class="form-control" name="username"
+                    id="id-username" placeholder="아이디"
+                    value="{{ login_username|default_if_none:'' }}">  -->
+              {{ form.username }}
+              <label for="id-username">아이디</label>
+            </div>
+            <div class="form-floating">
+              <!-- <input type="password" class="form-control" name="password"
+                    id="id-password" placeholder="Password">  -->
+              {{ form.password }}
+              <label for="id-password">비밀번호</label>
+            </div>
+            <div class="d-flex justify-content-center gap-4">
+              <div class="form-check text-start my-3">
+                <input class="form-check-input" type="checkbox" id="id-remember-id" name="remember_id"
+                      {% if login_username %}checked{% endif %} />
+                <label class="form-check-label" for="id-remember-id">아이디 저장</label>
+              </div>
+              <div class="form-check text-start my-3">
+                <input class="form-check-input" type="checkbox" id="id-remember-me" name="remember_me">
+                <label class="form-check-label" for="id-remember-me">자동 로그인</label>
+              </div>
+            </div>
+            <button class="btn btn-primary w-100 py-2" type="submit">로그인</button>
+            <p class="mt-5 mb-3 text-body-secondary text-center">&copy; 2025</p>
+          </form>
+        </main>
+      </div>
+    </div>
+  </div>
+{% endblock %}
