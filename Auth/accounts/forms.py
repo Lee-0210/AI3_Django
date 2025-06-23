@@ -15,7 +15,7 @@ class SignUpForm(UserCreationForm):
     # 필드 공통 설정
     for field in  self.fields.values():
       field.widget.attrs.update({'class': 'form-control'})
-      
+
     # 개별 필드 설정
     self.fields['username'].widget.attrs.update({'placeholder': '아이디'})
     self.fields['password1'].widget.attrs.update({'placeholder': '비밀번호'})
@@ -23,14 +23,14 @@ class SignUpForm(UserCreationForm):
     self.fields['nickname'].widget.attrs.update({'placeholder': '닉네임'})
     self.fields['gender'].widget.attrs.update({'placeholder': '성별'})
     self.fields['age'].widget.attrs.update({'placeholder': '나이'})
-    
-    
+
+
 # 커스텀 로그인 폼
 class LoginForm(AuthenticationForm):
   class Meta:
     model = CustomUser  # CustomUser 모델을 사용
     fields = ['username', 'password']
-  
+
   username = forms.CharField(
     label='아이디',
     widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': '아이디'})
