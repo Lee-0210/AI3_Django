@@ -17,9 +17,9 @@
             {% csrf_token %}
             <div class="input-group mb-3">
                 <label for="title" class="input-group-text">할 일</label>
-                <input autofocus name="title" type="text" class="form-control" id="title" placeholder="할 일을 입력해주세요.">
+                {{ form.title }}
                 <label for="content" class="input-group-text">세부 내용</label>
-                <input name="content" type="text" class="form-control" id="content" placeholder="추가 내용을 입력해주세요.">
+                {{ form.content }}
                 <button class="btn btn-outline-primary" type="submit">등록</button>
             </div>
             {% if error %}
@@ -118,8 +118,8 @@
             {% for todo in done_list %}
             <tr>
                 <td>✅</td>
-                <td>{{ todo.title }}</td>
-                <td>{{ todo.content }}</td>
+                <td class="text-decoration-line-through">{{ todo.title }}</td>
+                <td class="text-decoration-line-through">{{ todo.content }}</td>
                 <td>{{ todo.created_at|date:"Y-m-d" }}</td>
                 <td>
                     <form action="" method="post">
