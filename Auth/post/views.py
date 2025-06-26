@@ -10,6 +10,9 @@ from .decorators import user_is_post_owner
 def index(request):
     return render(request, 'post/index.html')
 
+def callback(request):
+    return render(request, 'callback.html')
+
 def list_view(request):
     posts = Post.objects.all()
     return render(request, 'post/list.html', {'posts' : posts})
