@@ -1,0 +1,1618 @@
+📀 한국 차트 기반 최신 앨범 정보 (수록곡 상세 포함)
+============================================================
+
+[앨범] OO-LI (2023-04-26) (ID: 06isIi4cIfsaH8ot5UoRD4)
+아티스트: WOODZ
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273e87a41550ee1b24be3e6e1fb
+앨범 종류: single
+레이블: EDAM Entertainment
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. Deep Deep Sleep (ID: 3Lqqyxa50G38xD98547B1Z)
+     - 아티스트: WOODZ
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 142초 | 인기: 41 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301987
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3Lqqyxa50G38xD98547B1Z
+  2. Journey (ID: 6dxgKYAH0TvoSb16xD30rD)
+     - 아티스트: WOODZ
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 198초 | 인기: 52 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301988
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD
+  3. Drowning (ID: 4xeugB5MqWh0jwvXZPxahq)
+     - 아티스트: WOODZ
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 244초 | 인기: 69 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301989
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq
+  4. Busted (ID: 2RUNqDPQJrxFjcwqn1jOqu)
+     - 아티스트: WOODZ
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 168초 | 인기: 48 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301990
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2RUNqDPQJrxFjcwqn1jOqu
+  5. Who Knows (ID: 7IAh3ga4Qzw7KYWDGzDf5I)
+     - 아티스트: WOODZ
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 41 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301991
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7IAh3ga4Qzw7KYWDGzDf5I
+  6. Ready to Fight (ID: 4znsJ6M12t4H2yBIaUCumm)
+     - 아티스트: WOODZ
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 136초 | 인기: 43 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382301992
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4znsJ6M12t4H2yBIaUCumm
+  7. ABYSS (ID: 1SCLxu8le0CYCD9AmbHWMi)
+     - 아티스트: WOODZ
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 232초 | 인기: 39 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382300896
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1SCLxu8le0CYCD9AmbHWMi
+------------------------------------------------------------
+
+[앨범] ODYSSEY - The 1st Album (2025-05-19) (ID: 07cUjKdLcgmnABNKKb4rGQ)
+아티스트: RIIZE
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273fc395ca14cbd0b146f46c2ff
+앨범 종류: album
+레이블: SM Entertainment
+출시일 정밀도: day
+총 트랙 수: 10
+🎵 수록곡 상세 정보:
+  1. Odyssey (ID: 5tZHqRzYiwHLlAubJt7VQr)
+     - 아티스트: RIIZE
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 152초 | 인기: 60 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500175
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5tZHqRzYiwHLlAubJt7VQr
+  2. Bag Bad Back (ID: 5nIMaWairXgZsh8hjC1r26)
+     - 아티스트: RIIZE
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 192초 | 인기: 64 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500145
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5nIMaWairXgZsh8hjC1r26
+  3. Ember to Solar (ID: 7KnQITHDqeTjKo4bsnFNgW)
+     - 아티스트: RIIZE
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 200초 | 인기: 60 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500155
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7KnQITHDqeTjKo4bsnFNgW
+  4. Fly Up (ID: 61JHSyyzMfvBfcB2ZK0HLI)
+     - 아티스트: RIIZE
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 178초 | 인기: 69 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500156
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI
+  5. Show Me Love (ID: 5CeLRBiMt8R6IC3Jtzym88)
+     - 아티스트: RIIZE
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 189초 | 인기: 58 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500157
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5CeLRBiMt8R6IC3Jtzym88
+  6. Passage (ID: 1ehb8IkIdAIhBKZixvQhRM)
+     - 아티스트: RIIZE
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 39초 | 인기: 54 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500158
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1ehb8IkIdAIhBKZixvQhRM
+  7. Midnight Mirage (ID: 4FlDdYU4AHFi0G4CtCNQA1)
+     - 아티스트: RIIZE
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 202초 | 인기: 58 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500159
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4FlDdYU4AHFi0G4CtCNQA1
+  8. The End of the Day (ID: 6KwLumGEUxeyU4kWhmYdI1)
+     - 아티스트: RIIZE
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 222초 | 인기: 62 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500160
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6KwLumGEUxeyU4kWhmYdI1
+  9. Inside My Love (ID: 0ctTbnpZKsDjY7vG7jtPeM)
+     - 아티스트: RIIZE
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 159초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500161
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0ctTbnpZKsDjY7vG7jtPeM
+  10. Another Life (ID: 6AbWRIO4f1dYakGZidYHnz)
+     - 아티스트: RIIZE
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 227초 | 인기: 58 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500162
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6AbWRIO4f1dYakGZidYHnz
+------------------------------------------------------------
+
+[앨범] No Genre (2025-05-13) (ID: 2E8hkTJKnSCv69mjVAh6hL)
+아티스트: BOYNEXTDOOR
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273cf33c21b065bda3fc6842c8e
+앨범 종류: album
+레이블: KOZ Entertainment
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. 123-78 (ID: 4XLfRpryO7Qn0SXp1ARIfj)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 160초 | 인기: 75 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516386
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4XLfRpryO7Qn0SXp1ARIfj
+  2. I Feel Good (ID: 1klePVubVctBqhlKJvibil)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516387
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1klePVubVctBqhlKJvibil
+  3. Step By Step (ID: 1DSDmBpBFHObaeKo1WTstK)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 149초 | 인기: 68 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516388
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1DSDmBpBFHObaeKo1WTstK
+  4. Is That True? (ID: 02jsJ8Jxl5sfpAsrXQByLh)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 129초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516389
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/02jsJ8Jxl5sfpAsrXQByLh
+  5. Next Mistake (ID: 2Zb18lrOnbvvIA1ZnpxXYE)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 139초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516390
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2Zb18lrOnbvvIA1ZnpxXYE
+  6. IF I SAY, I LOVE YOU (ID: 2NtidJuimmXzUsExfMYcvk)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 161초 | 인기: 68 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2475148
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk
+  7. I Feel Good (English Ver.) (ID: 6Lp5sFbB2h9xBRr7pSM29m)
+     - 아티스트: BOYNEXTDOOR
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 61 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516391
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6Lp5sFbB2h9xBRr7pSM29m
+------------------------------------------------------------
+
+[앨범] Warmth (2024-05-06) (ID: 700oyQvND1pNIADYqOkrre)
+아티스트: Lim Young Woong
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273744791c0e707946a832baa13
+앨범 종류: single
+레이블: Mulgogi Music
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. Home (ID: 2PlsVMcOn6ujc2UEYs2Yat)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 235초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382403094
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2PlsVMcOn6ujc2UEYs2Yat
+  2. Warmth (ID: 3vnaEaDxMKdBhqA1t0uAwl)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 235초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382403095
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl
+------------------------------------------------------------
+
+[앨범] Whiplash - The 5th Mini Album (2024-10-21) (ID: 3OaW4df1SA62k0arNpn6bK)
+아티스트: aespa
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75
+앨범 종류: single
+레이블: SM Entertainment
+출시일 정밀도: day
+총 트랙 수: 6
+🎵 수록곡 상세 정보:
+  1. Whiplash (ID: 6uPnrBgweGOcwjFL4ItAvV)
+     - 아티스트: aespa
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 183초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400341
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV
+  2. Kill It (ID: 7dYEUpcXJLDcI22m0dgmnH)
+     - 아티스트: aespa
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 199초 | 인기: 54 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400342
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7dYEUpcXJLDcI22m0dgmnH
+  3. Flights, Not Feelings (ID: 1aRyIsgzfUdSGAGz8zgFR2)
+     - 아티스트: aespa
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 181초 | 인기: 53 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400343
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1aRyIsgzfUdSGAGz8zgFR2
+  4. Pink Hoodie (ID: 2Kf6WQmc6TU4bYIu3Szsz2)
+     - 아티스트: aespa
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 146초 | 인기: 54 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400344
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2Kf6WQmc6TU4bYIu3Szsz2
+  5. Flowers (ID: 4u9cOL7R5OjAmlWkeEFXzf)
+     - 아티스트: aespa
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 190초 | 인기: 56 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400345
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf
+  6. Just Another Girl (ID: 3Oi1pDSYLVkz3i8jOXaQdt)
+     - 아티스트: aespa
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 184초 | 인기: 53 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400346
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3Oi1pDSYLVkz3i8jOXaQdt
+------------------------------------------------------------
+
+[앨범] A flower bookmark, Pt. 3 (2025-05-27) (ID: 4TeDL95L9OTCpYnuQwlrwY)
+아티스트: IU
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2737b95a86cafe26f087f15e7bf
+앨범 종류: single
+레이블: EDAM ENTERTAINMENT
+출시일 정밀도: day
+총 트랙 수: 6
+🎵 수록곡 상세 정보:
+  1. Red Sneakers (ID: 7bsNhzXyqkgr64SibwXbGD)
+     - 아티스트: IU
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 206초 | 인기: 63 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502932
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7bsNhzXyqkgr64SibwXbGD
+  2. Never Ending Story (ID: 3iJxBDym1SeqNqJqnvreHK)
+     - 아티스트: IU
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 224초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502933
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK
+  3. October 4th (ID: 64OBIfBNnGEQ22tMgk93YE)
+     - 아티스트: IU
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 232초 | 인기: 61 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502934
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/64OBIfBNnGEQ22tMgk93YE
+  4. Last Scene (Feat. Wonstein) (ID: 6OPd1gGT2gRadClWhzcPit)
+     - 아티스트: IU, Wonstein
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 243초 | 인기: 63 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502935
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit
+  5. A Beautiful Person (Feat. Balming Tiger) (ID: 6AF3XZYqQXe8ZeohNrbFXH)
+     - 아티스트: IU, Balming Tiger
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 210초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502936
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6AF3XZYqQXe8ZeohNrbFXH
+  6. Square's dream (ID: 6tmlmf1h3v9mIJqPAlCbzY)
+     - 아티스트: IU
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 201초 | 인기: 63 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382502937
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6tmlmf1h3v9mIJqPAlCbzY
+------------------------------------------------------------
+
+[앨범] Happy - :') (Remixes) (2024-11-19) (ID: 3nRmQ70bczWCLWyj1aRbt6)
+아티스트: Jin
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27302dd46d1f82ce19b5927b269
+앨범 종류: album
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 8
+🎵 수록곡 상세 정보:
+  1. Running Wild (ID: 50zAEIE4B1QqhPjRMK2Xmh)
+     - 아티스트: Jin
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 151초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461990
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh
+  2. I’ll Be There (ID: 5zOv7QzCMrSkPJKQr1Tcif)
+     - 아티스트: Jin
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 181초 | 인기: 54 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461742
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif
+  3. Another Level (ID: 1YmY0HUm05BUpcHibc1bhB)
+     - 아티스트: Jin
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 162초 | 인기: 63 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461991
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB
+  4. Falling (ID: 5oSUmLelhXItguqPQ0Qn2b)
+     - 아티스트: Jin
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 178초 | 인기: 49 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461992
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5oSUmLelhXItguqPQ0Qn2b
+  5. Heart on the Window (with WENDY) (ID: 4qUmNOnS81p8wrMdBHRbS3)
+     - 아티스트: Jin, WENDY
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 177초 | 인기: 51 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461993
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4qUmNOnS81p8wrMdBHRbS3
+  6. I will come to you (ID: 5s7flUAYsDmcUWtHsMCihv)
+     - 아티스트: Jin
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 156초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2461994
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5s7flUAYsDmcUWtHsMCihv
+  7. Running Wild (Extended Ver.) (ID: 6mbbLSTKMMG50xML4OzlVS)
+     - 아티스트: Jin
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 214초 | 인기: 47 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2469499
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6mbbLSTKMMG50xML4OzlVS
+  8. Running Wild (Band Ver.) (ID: 2L56YCM5eA8xWsUcGgo4zV)
+     - 아티스트: Jin
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 163초 | 인기: 48 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2469500
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2L56YCM5eA8xWsUcGgo4zV
+------------------------------------------------------------
+
+[앨범] Polaroid (2022-11-15) (ID: 0dIwHWpQXBKVOuP9CJsY4E)
+아티스트: Lim Young Woong
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
+앨범 종류: single
+레이블: 물고기뮤직
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. London Boy (ID: 6auT8cRBu3BgPRBrdVBY15)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 244초 | 인기: 64 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KSA012214061
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15
+  2. Polaroid (ID: 2tA3NP12r4niSRhb9Y6AoY)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 206초 | 인기: 62 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KSA012214062
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY
+------------------------------------------------------------
+
+[앨범] yours (2019-04-10) (ID: 7mvY0s2fwo5aaRw4zCyCA6)
+아티스트: 데이먼스 이어 Damons year
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273cccd0bf2843a65a3d45ea190
+앨범 종류: single
+레이블: WM Korea
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. yours (ID: 7JQH2lBMZ10ztDnpoeq6Ki)
+     - 아티스트: 데이먼스 이어 Damons year
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 165초 | 인기: 62 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRMIM1905411
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki
+------------------------------------------------------------
+
+[앨범] Winter Ahead (with PARK HYO SHIN) (2024-11-29) (ID: 4sfwHIxFU5kcDqSdMENQsy)
+아티스트: V, Park Hyo Shin
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27316ba2a3622bd0d0d985e3234
+앨범 종류: single
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. Winter Ahead (with PARK HYO SHIN) (ID: 7G7mSV4BebkoHWwKTDvXu9)
+     - 아티스트: V, Park Hyo Shin
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 234초 | 인기: 84 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2467826
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9
+------------------------------------------------------------
+
+[앨범] GOLDEN (2023-11-03) (ID: 5pSk3c3wVwnb2arb6ohCPU)
+아티스트: Jung Kook
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316
+앨범 종류: album
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 11
+🎵 수록곡 상세 정보:
+  1. 3D (feat. Jack Harlow) (ID: 6xGr4tVzpTX99p9Cf0hRRL)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 201초 | 인기: 80 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2346470
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6xGr4tVzpTX99p9Cf0hRRL
+  2. Closer to You (feat. Major Lazer) (ID: 06Qo2fYR2KS1F7bL338iVT)
+     - 아티스트: Jung Kook, Major Lazer
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 170초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348390
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT
+  3. Seven (feat. Latto) (Explicit Ver.) (ID: 2HRgqmZQC0MC7GeNuDIXHN)
+     - 아티스트: Jung Kook, Latto
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 183초 | 인기: 86 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2330093
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN
+  4. Standing Next to You (ID: 2KslE17cAJNHTsI2MI0jb2)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 206초 | 인기: 85 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348391
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2
+  5. Yes or No (ID: 2gkVEnpahpE3bQuvGuCpAV)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 147초 | 인기: 79 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348392
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV
+  6. Please Don't Change (feat. DJ Snake) (ID: 0k0GtcnyQLMiXrdEDbLXmJ)
+     - 아티스트: Jung Kook, DJ Snake
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 146초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348393
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ
+  7. Hate You (ID: 5ONOlTiqymhzwcFjqcIT6E)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 154초 | 인기: 75 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348394
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E
+  8. Somebody (ID: 5KfJvZ0PZzRdwFRaTUDAA7)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 168초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348395
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7
+  9. Too Sad to Dance (ID: 3bNNvJA7hsGw0wSpGkfOBm)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 175초 | 인기: 73 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348396
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm
+  10. Shot Glass of Tears (ID: 7AbqgE05nFl9qY4FRUiq2p)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 167초 | 인기: 73 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348397
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p
+  11. Seven (feat. Latto) (Clean Ver.) (ID: 7Hcj0duTWiCSYDtJaztNIt)
+     - 아티스트: Jung Kook, Latto
+     - 트랙 번호: 11 | 디스크 번호: 1
+     - 길이: 183초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2330092
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7Hcj0duTWiCSYDtJaztNIt
+------------------------------------------------------------
+
+[앨범] To Reach You (2025-03-06) (ID: 6cSbfbsVtQpnvFcRsYru1P)
+아티스트: 10CM
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27358c6956da5fa380b67986551
+앨범 종류: single
+레이블: CAM
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. To Reach You (ID: 20QI1DhCFz7pN8rATkNguv)
+     - 아티스트: 10CM
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 158초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382501471
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv
+  2. To Reach You (Inst.) (ID: 68l8hkvXJVVy0obKfSTdsG)
+     - 아티스트: 10CM
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 158초 | 인기: 30 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382501472
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/68l8hkvXJVVy0obKfSTdsG
+------------------------------------------------------------
+
+[앨범] Gnarly (2025-04-30) (ID: 25oD4E4cwmG7SCQIoF3ez5)
+아티스트: KATSEYE
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2738a30c41e2c9336c293ebebfe
+앨범 종류: single
+레이블: HYBE/Geffen
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. Gnarly (ID: 1j15Ar0qGDzIR0v3CQv3JL)
+     - 아티스트: KATSEYE
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 137초 | 인기: 91 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72503410
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL
+------------------------------------------------------------
+
+[앨범] Petals to Thorns (2023-05-26) (ID: 3rrrTOHiXGzuW4FP7t0O1A)
+아티스트: d4vd
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7
+앨범 종류: single
+레이블: Darkroom/Interscope Records
+출시일 정밀도: day
+총 트랙 수: 9
+🎵 수록곡 상세 정보:
+  1. Sleep Well (ID: 5ye1TParxcolbnNsOXO8qE)
+     - 아티스트: d4vd
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 175초 | 인기: 80 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72304647
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE
+  2. Here With Me (ID: 5LrN7yUQAzvthd4QujgPFr)
+     - 아티스트: d4vd
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 242초 | 인기: 90 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: QZMEM2209263
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr
+  3. This Is How It Feels (with Laufey) (ID: 6BQPRUFGHsgtNYJxuwhktR)
+     - 아티스트: d4vd, Laufey
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 284초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72305204
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR
+  4. Don't Forget About Me (ID: 05vvPTidbjvDySLc9o65YS)
+     - 아티스트: d4vd
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 149초 | 인기: 61 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72305317
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS
+  5. WORTHLESS (ID: 26vDr5jgWQoJOTH4Bu3KCQ)
+     - 아티스트: d4vd
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 163초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72302840
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ
+  6. Backstreet Girl (ID: 5XztHXAVuubYi0GgqGGgF5)
+     - 아티스트: d4vd
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 250초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72304495
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5XztHXAVuubYi0GgqGGgF5
+  7. You and I (ID: 1tuSpba0RXUMubHpAOWlMN)
+     - 아티스트: d4vd
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 152초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: QZFYY2293829
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1tuSpba0RXUMubHpAOWlMN
+  8. Romantic Homicide (ID: 0SCLsDJtC7DmOwks1tsszt)
+     - 아티스트: d4vd
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 132초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: QZMEM2232831
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0SCLsDJtC7DmOwks1tsszt
+  9. The Bridge (ID: 7MTHpsxtKVJaBL6e9WXzqD)
+     - 아티스트: d4vd
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 181초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72305319
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD
+------------------------------------------------------------
+
+[앨범] SEVENTEEN 5th Album 'HAPPY BURSTDAY' (2025-05-26) (ID: 0xlyof8BowaJtYPsxWYmkN)
+아티스트: SEVENTEEN
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273950b4ffac4aaebdb6698465c
+앨범 종류: album
+레이블: PLEDIS Entertainment
+출시일 정밀도: day
+총 트랙 수: 16
+🎵 수록곡 상세 정보:
+  1. HBD (ID: 0PvRQaGO5lkS7uqdsOHdvI)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 75 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501604
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0PvRQaGO5lkS7uqdsOHdvI
+  2. THUNDER (ID: 0qkYuCno3SoU8vxkCdx0iJ)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 164초 | 인기: 86 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501605
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ
+  3. Bad Influence (Prod. by Pharrell Williams) (ID: 6uJlw4VHZulMvz6s3J2bO2)
+     - 아티스트: SEVENTEEN, Pharrell Williams
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 167초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501606
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2
+  4. Skyfall (THE 8 Solo) (ID: 6bDbe7hX1w7fVp3kYTZBLh)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 180초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501607
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6bDbe7hX1w7fVp3kYTZBLh
+  5. Fortunate Change (JOSHUA Solo) (ID: 38Q0fowu5nXnOS14brjEPR)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 217초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501608
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/38Q0fowu5nXnOS14brjEPR
+  6. 99.9% (WONWOO Solo) (ID: 6PEeh7wjIJpwTOxjjhsAcJ)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 185초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501609
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ
+  7. Raindrops (SEUNGKWAN Solo) (ID: 6thSY4QWulS05XZ5oRP1r7)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 224초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501610
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6thSY4QWulS05XZ5oRP1r7
+  8. Damage (HOSHI Solo) (feat. Timbaland) (ID: 6zfIQ48qCIugcDsrdC5tyn)
+     - 아티스트: SEVENTEEN, Timbaland
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 163초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501611
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6zfIQ48qCIugcDsrdC5tyn
+  9. Shake It Off (MINGYU Solo) (ID: 7nkbHBoyWZwWXRqYJvGyry)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 168초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501612
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7nkbHBoyWZwWXRqYJvGyry
+  10. Happy Virus (DK Solo) (ID: 7AQ53o110Mhvt1a2mtGP6V)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 194초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501613
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7AQ53o110Mhvt1a2mtGP6V
+  11. Destiny (WOOZI Solo) (ID: 0z2DWFjnHhuWjlMFqAH4GN)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 11 | 디스크 번호: 1
+     - 길이: 261초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501614
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN
+  12. Shining Star (Vernon Solo) (ID: 6Oo2r0gNH11Hfp9rvPDKLe)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 12 | 디스크 번호: 1
+     - 길이: 201초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501615
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6Oo2r0gNH11Hfp9rvPDKLe
+  13. Gemini (JUN Solo) (ID: 2kA2Vtg4tze7xJnlsOPfmq)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 13 | 디스크 번호: 1
+     - 길이: 190초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501616
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2kA2Vtg4tze7xJnlsOPfmq
+  14. Trigger (DINO Solo) (ID: 0MerfQMNc9OPWZvZWeUKWe)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 14 | 디스크 번호: 1
+     - 길이: 149초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501617
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe
+  15. Coincidence (JEONGHAN Solo) (ID: 1BmA9UsLDblr3cmpWPsjti)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 15 | 디스크 번호: 1
+     - 길이: 163초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501618
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1BmA9UsLDblr3cmpWPsjti
+  16. Jungle (S.COUPS Solo) (ID: 7DZOKlhEcOkAVxItkqALkn)
+     - 아티스트: SEVENTEEN
+     - 트랙 번호: 16 | 디스크 번호: 1
+     - 길이: 153초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2501619
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7DZOKlhEcOkAVxItkqALkn
+------------------------------------------------------------
+
+[앨범] 3D : The Remixes (2023-10-02) (ID: 0fJ0beklzFwoBv01U8792s)
+아티스트: Jung Kook
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
+앨범 종류: album
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. 3D (feat. Jack Harlow) (ID: 01qFKNWq73UfEslI0GvumE)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 201초 | 인기: 80 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2346470
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE
+  2. 3D (feat. Jack Harlow) (Instrumental) (ID: 6Xa9B3iE7bo3GkyUOVAhB9)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 199초 | 인기: 40 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2346471
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6Xa9B3iE7bo3GkyUOVAhB9
+  3. 3D (Alternate Ver.) (ID: 5BKiMkWucQVb7wrFi29VtX)
+     - 아티스트: Jung Kook
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 162초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2346472
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5BKiMkWucQVb7wrFi29VtX
+  4. 3D (feat. Jack Harlow) (A. G. Cook Remix) (ID: 7fQKDpB4i0hiQacjVCXVU2)
+     - 아티스트: Jung Kook, Jack Harlow, A. G. Cook
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 188초 | 인기: 47 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348310
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7fQKDpB4i0hiQacjVCXVU2
+  5. 3D (feat. Jack Harlow) (Clean Ver.) (ID: 0TaaG2kxjzSjVbmmiiSZEa)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 202초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348311
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0TaaG2kxjzSjVbmmiiSZEa
+  6. 3D (feat. Jack Harlow) (Sped Up) (ID: 1ewYtP6BZlak8qokzZe4Bx)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 168초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348312
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1ewYtP6BZlak8qokzZe4Bx
+  7. 3D (feat. Jack Harlow) (Slowed Down) (ID: 0dzT72K2RElXDMuMOyuKOI)
+     - 아티스트: Jung Kook, Jack Harlow
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 236초 | 인기: 46 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2348313
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0dzT72K2RElXDMuMOyuKOI
+------------------------------------------------------------
+
+[앨범] Heavenly Ever After (2025-04-14) (ID: 0aYRlVT4Mt63KpofZcaBoc)
+아티스트: Lim Young Woong
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2738959826653e37902d6413ab9
+앨범 종류: single
+레이블: Mulgogi Music / ADA
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. Heavenly Ever After (ID: 7kjVCymE7vn0HizmGCGFWQ)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 295초 | 인기: 71 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA252500830
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ
+------------------------------------------------------------
+
+[앨범] GNX (2024-11-21) (ID: 1Ss0ArMRr91m83mOgRBjSZ)
+아티스트: Kendrick Lamar
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+앨범 종류: album
+레이블: pgLang, under exclusive license to Interscope Records
+출시일 정밀도: day
+총 트랙 수: 12
+🎵 수록곡 상세 정보:
+  1. wacced out murals (ID: 0dYNnBMNujBe6v9JeU5NC5)
+     - 아티스트: Kendrick Lamar
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 317초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408507
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0dYNnBMNujBe6v9JeU5NC5
+  2. squabble up (ID: 4kGlAkGC58crFvxfegBhNs)
+     - 아티스트: Kendrick Lamar
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 157초 | 인기: 64 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408508
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4kGlAkGC58crFvxfegBhNs
+  3. luther (with sza) (ID: 2CGNAOSuO1MEFCbBRgUzjd)
+     - 아티스트: Kendrick Lamar, SZA
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 177초 | 인기: 92 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408496
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd
+  4. man at the garden (ID: 0d9BfcBk5iBUC78VmTXGgY)
+     - 아티스트: Kendrick Lamar
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 233초 | 인기: 48 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408509
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0d9BfcBk5iBUC78VmTXGgY
+  5. hey now (feat. dody6) (ID: 6CG7UePo6mydQbNr4tlkp8)
+     - 아티스트: Kendrick Lamar, Dody6
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 217초 | 인기: 51 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408510
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6CG7UePo6mydQbNr4tlkp8
+  6. reincarnated (ID: 1FuJwAXJv0WsPXcYMaAUs8)
+     - 아티스트: Kendrick Lamar
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 275초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408511
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1FuJwAXJv0WsPXcYMaAUs8
+  7. tv off (feat. lefty gunplay) (ID: 75bsrBtmM57lhi55yOfzBL)
+     - 아티스트: Kendrick Lamar, Lefty Gunplay
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 220초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408512
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/75bsrBtmM57lhi55yOfzBL
+  8. dodger blue (feat. wallie the sensei, siete7x, roddy ricch) (ID: 442ifpYGFKfyz8PohOQEVd)
+     - 아티스트: Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 131초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408513
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/442ifpYGFKfyz8PohOQEVd
+  9. peekaboo (feat. azchike) (ID: 10tTkKxYPgeYkuMwGnqRND)
+     - 아티스트: Kendrick Lamar, AZ Chike
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408514
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/10tTkKxYPgeYkuMwGnqRND
+  10. heart pt. 6 (ID: 1x95pL62pLkxgPprH9ONkQ)
+     - 아티스트: Kendrick Lamar
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 292초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408515
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ
+  11. gnx (feat. hitta j3, youngthreat, peysoh) (ID: 70cI4Pl8YjQXmIfpLeqm76)
+     - 아티스트: Kendrick Lamar, Hitta J3, YoungThreat, Peysoh
+     - 트랙 번호: 11 | 디스크 번호: 1
+     - 길이: 193초 | 인기: 45 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408516
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/70cI4Pl8YjQXmIfpLeqm76
+  12. gloria (with sza) (ID: 5xPvy0TW5W47hgyYas9bnt)
+     - 아티스트: Kendrick Lamar, SZA
+     - 트랙 번호: 12 | 디스크 번호: 1
+     - 길이: 287초 | 인기: 49 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUG12408517
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5xPvy0TW5W47hgyYas9bnt
+------------------------------------------------------------
+
+[앨범] MAYHEM (2025-03-07) (ID: 2MHUaRi9OCyTN02SoyRRBJ)
+아티스트: Lady Gaga
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c
+앨범 종류: album
+레이블: Interscope Records
+출시일 정밀도: day
+총 트랙 수: 14
+🎵 수록곡 상세 정보:
+  1. Disease (ID: 0T3Hw3kPj9T2E4UoaSXmfn)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 229초 | 인기: 81 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72407015
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn
+  2. Abracadabra (ID: 2LHNTC9QZxsL3nWpt8iaSR)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 223초 | 인기: 87 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412581
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR
+  3. Garden Of Eden (ID: 4mUR5Tv0CvJtpmnUtzeIgd)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 239초 | 인기: 84 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72407011
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd
+  4. Perfect Celebrity (ID: 0Tqn5Th0wk55eLdga96vZM)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 229초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412583
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM
+  5. Vanish Into You (ID: 5IoPnNiYAOvHHJpz13wzRL)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 244초 | 인기: 83 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412584
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL
+  6. Killah (feat. Gesaffelstein) (ID: 4pNzBbGcqXofx8mLBPTeih)
+     - 아티스트: Lady Gaga, Gesaffelstein
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 210초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412585
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih
+  7. Zombieboy (ID: 0ElVpg9XIswx3XWs6kUj6a)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 213초 | 인기: 79 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412586
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a
+  8. LoveDrug (ID: 3hcivoswCVR8LZkHR8MYA5)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 193초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412587
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5
+  9. How Bad Do U Want Me (ID: 2rvd6akG8qEtBNUvQpN7iY)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 238초 | 인기: 84 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412588
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY
+  10. Don't Call Tonight (ID: 0uoWOZeZZiC90RMNDQBqj4)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 225초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412589
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4
+  11. Shadow Of A Man (ID: 6OC87jHRiovNPEUrgaqFSu)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 11 | 디스크 번호: 1
+     - 길이: 199초 | 인기: 80 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412590
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu
+  12. The Beast (ID: 08svDlp6TNFlfMIgjjZlYI)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 12 | 디스크 번호: 1
+     - 길이: 234초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412591
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/08svDlp6TNFlfMIgjjZlYI
+  13. Blade Of Grass (ID: 7xIoinMSiwIp5BWR7toO1O)
+     - 아티스트: Lady Gaga
+     - 트랙 번호: 13 | 디스크 번호: 1
+     - 길이: 257초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72412592
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7xIoinMSiwIp5BWR7toO1O
+  14. Die With A Smile (ID: 7so0lgd0zP2Sbgs2d7a1SZ)
+     - 아티스트: Lady Gaga, Bruno Mars
+     - 트랙 번호: 14 | 디스크 번호: 1
+     - 길이: 251초 | 인기: 91 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USUM72409273
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ
+------------------------------------------------------------
+
+[앨범] Fourever (2024-03-18) (ID: 7FkXm1xDdddS6ANM7wW4UR)
+아티스트: DAY6
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2731e20be5a6bdfd2780516320a
+앨범 종류: single
+레이블: JYP Entertainment
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. Welcome to the Show (ID: 3BMAWsBp4jc35mCmebC3WT)
+     - 아티스트: DAY6
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 217초 | 인기: 56 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400039
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT
+  2. HAPPY (ID: 5R5NMy7zc7QPCfdvy8dvCQ)
+     - 아티스트: DAY6
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 189초 | 인기: 60 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400040
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5R5NMy7zc7QPCfdvy8dvCQ
+  3. The Power of Love (ID: 2oa3SNMLs4jcpguNnR9No5)
+     - 아티스트: DAY6
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 202초 | 인기: 40 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400041
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2oa3SNMLs4jcpguNnR9No5
+  4. 널 제외한 나의 뇌 Get The Hell Out (ID: 6UKhGYdCRnASe2VcAvl7HW)
+     - 아티스트: DAY6
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 166초 | 인기: 40 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400042
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6UKhGYdCRnASe2VcAvl7HW
+  5. 나만 슬픈 엔딩 Sad Ending (ID: 4lTJgnGCPgIeuDXgc5Lomf)
+     - 아티스트: DAY6
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 204초 | 인기: 40 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400043
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4lTJgnGCPgIeuDXgc5Lomf
+  6. 사랑하게 해주라 Let Me Love You (ID: 43ILn2F6PEK1MOZ2WDUGJE)
+     - 아티스트: DAY6
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 243초 | 인기: 41 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400044
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/43ILn2F6PEK1MOZ2WDUGJE
+  7. 그게 너의 사랑인지 몰랐어 didn't know (ID: 3Zbt2Iumy4cfJDrL6ZisrP)
+     - 아티스트: DAY6
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 239초 | 인기: 44 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: US5TA2400045
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3Zbt2Iumy4cfJDrL6ZisrP
+------------------------------------------------------------
+
+[앨범] Echo (2025-05-16) (ID: 3DmDoHxAeEiDFNWrHSKAdQ)
+아티스트: Jin
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27389228504f700641956e29f5d
+앨범 종류: album
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. Don’t Say You Love Me (ID: 27xkOIER6uDLKALIelHylZ)
+     - 아티스트: Jin
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 180초 | 인기: 93 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2509874
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ
+  2. Nothing Without Your Love (ID: 4H6s1mTZcjHAMU36ZF3Xoz)
+     - 아티스트: Jin
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 176초 | 인기: 79 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514497
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz
+  3. Loser (feat. YENA) (ID: 4WrkJNGb4zUwARc0FD3iNf)
+     - 아티스트: Jin, YENA
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 155초 | 인기: 79 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514498
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf
+  4. Rope It (ID: 5566hAPt0WmMPr9Xn749L7)
+     - 아티스트: Jin
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 165초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514499
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7
+  5. With the Clouds (ID: 5RdKO1lsHG9jhbG03LL7cv)
+     - 아티스트: Jin
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 188초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514500
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5RdKO1lsHG9jhbG03LL7cv
+  6. Background (ID: 1qmcc6IRvBdhmqhLhSaJoo)
+     - 아티스트: Jin
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 175초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514501
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo
+  7. To Me, Today (ID: 3f7rVNaBNocDLtPmnds9eE)
+     - 아티스트: Jin
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 181초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2514502
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3f7rVNaBNocDLtPmnds9eE
+------------------------------------------------------------
+
+[앨범] HANDS UP (2025-04-28) (ID: 4M9CaTcousQCoKSz7X2HSQ)
+아티스트: MEOVV
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27395d8568298364a98160b11ca
+앨범 종류: single
+레이블: THEBLACKLABEL
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. HANDS UP (ID: 5nMZZAx81447SskgOnuRIe)
+     - 아티스트: MEOVV
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 192초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KSA002500508
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5nMZZAx81447SskgOnuRIe
+------------------------------------------------------------
+
+[앨범] Armageddon - The 1st Album (2024-05-27) (ID: 3gHhPm8z8tid1kvpniUKuK)
+아티스트: aespa
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2
+앨범 종류: album
+레이블: SM Entertainment
+출시일 정밀도: day
+총 트랙 수: 10
+🎵 수록곡 상세 정보:
+  1. Supernova (ID: 2VdSktBqFfkW7y6q5Ik4Z4)
+     - 아티스트: aespa
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 178초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400090
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4
+  2. Armageddon (ID: 5eWcGfUCrVFMoYskyfkEPE)
+     - 아티스트: aespa
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 196초 | 인기: 75 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400093
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE
+  3. Set The Tone (ID: 27LqJ29VMqwKQQC2CE9FHr)
+     - 아티스트: aespa
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 202초 | 인기: 55 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400094
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/27LqJ29VMqwKQQC2CE9FHr
+  4. Mine (ID: 4AZ4Y1QAOLBwnWaX9cguoF)
+     - 아티스트: aespa
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 193초 | 인기: 51 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400095
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4AZ4Y1QAOLBwnWaX9cguoF
+  5. Licorice (ID: 4iSiRU5nGU7EP5TbkEEcsj)
+     - 아티스트: aespa
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 158초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400096
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4iSiRU5nGU7EP5TbkEEcsj
+  6. BAHAMA (ID: 67yDGKXKIkyBhwbey8AmEU)
+     - 아티스트: aespa
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 190초 | 인기: 55 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400097
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/67yDGKXKIkyBhwbey8AmEU
+  7. Long Chat (#♥) (ID: 0u24lLekIGJ0CifIrHdD8N)
+     - 아티스트: aespa
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 195초 | 인기: 50 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400098
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0u24lLekIGJ0CifIrHdD8N
+  8. Prologue (ID: 4oBpXs4KppprE6ql0Dmr2O)
+     - 아티스트: aespa
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 194초 | 인기: 53 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400099
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4oBpXs4KppprE6ql0Dmr2O
+  9. Live My Life (ID: 1x1oCGsFUDViOvcISuoKW0)
+     - 아티스트: aespa
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 159초 | 인기: 63 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400100
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1x1oCGsFUDViOvcISuoKW0
+  10. Melody (ID: 4T5AbXz68PpZyKewHO5Tqw)
+     - 아티스트: aespa
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 187초 | 인기: 52 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302400101
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4T5AbXz68PpZyKewHO5Tqw
+------------------------------------------------------------
+
+[앨범] Do or Die (2023-10-09) (ID: 0vZCxyaV5c4lcHqds3xfts)
+아티스트: Lim Young Woong
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273831b4a8eb3bd16788dca633a
+앨범 종류: single
+레이블: Mulgogi Music
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. Do or Die (ID: 21ewxM3YvcdTj7cC0XwznO)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 205초 | 인기: 66 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA382320939
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/21ewxM3YvcdTj7cC0XwznO
+------------------------------------------------------------
+
+[앨범] Resident Playbook, Pt. 9 (Original Soundtrack) (2025-05-11) (ID: 2gZ7EtpMiM5cEtQIHzOCLo)
+아티스트: TOMORROW X TOGETHER
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27309de738debb38028a260a97b
+앨범 종류: single
+레이블: Genie Music Corporation, Stone Music Entertainment
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. When the Day Comes (ID: 60DwXD4XZgBGMRwViDqBm6)
+     - 아티스트: TOMORROW X TOGETHER
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 221초 | 인기: 77 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRMIM2526694
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/60DwXD4XZgBGMRwViDqBm6
+  2. When the Day Comes - Instrumental (ID: 5n1YHRtD2VyP00AHWebO5V)
+     - 아티스트: TOMORROW X TOGETHER
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 221초 | 인기: 49 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRMIM2526695
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5n1YHRtD2VyP00AHWebO5V
+------------------------------------------------------------
+
+[앨범] Ruby (2025-03-07) (ID: 1W7dufIS79lk01w3tBAGe5)
+아티스트: JENNIE
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27388e90abbb4d0d9e45881f4dc
+앨범 종류: album
+레이블: Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.
+출시일 정밀도: day
+총 트랙 수: 15
+🎵 수록곡 상세 정보:
+  1. Intro : JANE with FKJ (ID: 2RENZFrMGuOtr162uKsjOn)
+     - 아티스트: JENNIE, FKJ
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 98초 | 인기: 39 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500260
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2RENZFrMGuOtr162uKsjOn
+  2. like JENNIE (ID: 0DC62SYIRKMFgx2f7OyvwD)
+     - 아티스트: JENNIE
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 123초 | 인기: 59 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500261
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0DC62SYIRKMFgx2f7OyvwD
+  3. start a war (ID: 4YoN6sOtjWgbtB2jKgLPHL)
+     - 아티스트: JENNIE
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 165초 | 인기: 43 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500262
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4YoN6sOtjWgbtB2jKgLPHL
+  4. Handlebars (feat. Dua Lipa) (ID: 2eOXb8aSpBUQLSk1sTBPEK)
+     - 아티스트: JENNIE, Dua Lipa
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 184초 | 인기: 49 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500266
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2eOXb8aSpBUQLSk1sTBPEK
+  5. with the IE (way up) (ID: 0wQASbxN6UbZXZhKXvuczj)
+     - 아티스트: JENNIE
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 163초 | 인기: 46 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500263
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0wQASbxN6UbZXZhKXvuczj
+  6. ExtraL (feat. Doechii) (ID: 3fN2swfuBHUljCyPlA8wBN)
+     - 아티스트: JENNIE, Doechii
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 167초 | 인기: 49 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500264
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3fN2swfuBHUljCyPlA8wBN
+  7. Mantra (ID: 0oYhOxvxd95jtTWXHkYsPh)
+     - 아티스트: JENNIE
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 136초 | 인기: 48 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92405226
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0oYhOxvxd95jtTWXHkYsPh
+  8. Love Hangover (feat. Dominic Fike) (ID: 2DW9UqvL7vcG3qCGFUmvXp)
+     - 아티스트: JENNIE, Dominic Fike
+     - 트랙 번호: 8 | 디스크 번호: 1
+     - 길이: 180초 | 인기: 48 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500253
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2DW9UqvL7vcG3qCGFUmvXp
+  9. ZEN (ID: 76tWxLk4KWOw1Qd8dC5SdI)
+     - 아티스트: JENNIE
+     - 트랙 번호: 9 | 디스크 번호: 1
+     - 길이: 201초 | 인기: 44 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500267
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/76tWxLk4KWOw1Qd8dC5SdI
+  10. Damn Right (feat. Childish Gambino & Kali Uchis) (ID: 3KldgsZmR6nCItrTrP8zbl)
+     - 아티스트: JENNIE, Childish Gambino, Kali Uchis
+     - 트랙 번호: 10 | 디스크 번호: 1
+     - 길이: 230초 | 인기: 43 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500268
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3KldgsZmR6nCItrTrP8zbl
+  11. F.T.S. (ID: 6wbLxHGBCpTWIpLZ5L0Zuv)
+     - 아티스트: JENNIE
+     - 트랙 번호: 11 | 디스크 번호: 1
+     - 길이: 152초 | 인기: 38 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500269
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6wbLxHGBCpTWIpLZ5L0Zuv
+  12. Filter (ID: 4p3oOaC3Fo38tEXp3SR5DN)
+     - 아티스트: JENNIE
+     - 트랙 번호: 12 | 디스크 번호: 1
+     - 길이: 151초 | 인기: 38 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500270
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN
+  13. Seoul City (ID: 3IPh4v7HFJ8Egba3lYNDrQ)
+     - 아티스트: JENNIE
+     - 트랙 번호: 13 | 디스크 번호: 1
+     - 길이: 164초 | 인기: 45 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500271
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3IPh4v7HFJ8Egba3lYNDrQ
+  14. Starlight (ID: 0rNCeIkEvz61X0oP48z6cC)
+     - 아티스트: JENNIE
+     - 트랙 번호: 14 | 디스크 번호: 1
+     - 길이: 168초 | 인기: 39 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500272
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0rNCeIkEvz61X0oP48z6cC
+  15. twin (ID: 5rP5Mwcx5IYavwVTCmdVIK)
+     - 아티스트: JENNIE
+     - 트랙 번호: 15 | 디스크 번호: 1
+     - 길이: 208초 | 인기: 40 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USQX92500676
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5rP5Mwcx5IYavwVTCmdVIK
+------------------------------------------------------------
+
+[앨범] FACE (2023-03-24) (ID: 4xc3Lc9yASZgEJGH7acWMB)
+아티스트: Jimin
+앨범 커버: https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
+앨범 종류: single
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 6
+🎵 수록곡 상세 정보:
+  1. Face-off (ID: 3OdIiWnYRHPYtC313Z0Bwy)
+     - 아티스트: Jimin
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 229초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251863
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy
+  2. Interlude : Dive (ID: 2qg2jy3v50RwfV5FAqG3a2)
+     - 아티스트: Jimin
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 130초 | 인기: 62 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251864
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2
+  3. Like Crazy (ID: 3Ua0m0YmEjrMi9XErKcNiR)
+     - 아티스트: Jimin
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 212초 | 인기: 78 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251865
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR
+  4. Alone (ID: 5Hfnps0jaWFpYg55WOPexG)
+     - 아티스트: Jimin
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 211초 | 인기: 67 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251866
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG
+  5. Set Me Free Pt.2 (ID: 1fpj1CJPxY3YvN3AMAEYvt)
+     - 아티스트: Jimin
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 200초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251867
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt
+  6. Like Crazy (English Version) (ID: 0u8rZGtXJrLtiSe34FPjGG)
+     - 아티스트: Jimin
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 212초 | 인기: 68 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2251868
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG
+------------------------------------------------------------
+
+[앨범] Grain of Sand (2023-06-05) (ID: 1Sf3c8MEe4cXaxZzOKgnhc)
+아티스트: Lim Young Woong
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
+앨범 종류: single
+레이블: 물고기뮤직
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. Grain of Sand (ID: 4WUpMUjdoi47LY7gBQBXe3)
+     - 아티스트: Lim Young Woong
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 220초 | 인기: 65 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KSA012251070
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3
+------------------------------------------------------------
+
+[앨범] MUSE (2024-07-19) (ID: 15XcLhiVMlSOipUddTNDnr)
+아티스트: Jimin
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec
+앨범 종류: album
+레이블: BIGHIT MUSIC
+출시일 정밀도: day
+총 트랙 수: 7
+🎵 수록곡 상세 정보:
+  1. Rebirth (Intro) (ID: 7gMfVc4zfNIxuMyMGglOHa)
+     - 아티스트: Jimin
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 144초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431057
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa
+  2. Interlude : Showtime (ID: 45zLrK0668WQ5JFMyiYmCS)
+     - 아티스트: Jimin
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 78초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431058
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS
+  3. Smeraldo Garden Marching Band (feat. Loco) (ID: 1agDCV4zQqaFwJQNsTgmL1)
+     - 아티스트: Jimin, Loco
+     - 트랙 번호: 3 | 디스크 번호: 1
+     - 길이: 182초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431059
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1
+  4. Slow Dance (feat. Sofia Carson) (ID: 3d2bsbugow8JiNvuaRupFH)
+     - 아티스트: Jimin, Sofia Carson
+     - 트랙 번호: 4 | 디스크 번호: 1
+     - 길이: 188초 | 인기: 74 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431060
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH
+  5. Be Mine (ID: 3LWVXp636uLT356Rj08Jaz)
+     - 아티스트: Jimin
+     - 트랙 번호: 5 | 디스크 번호: 1
+     - 길이: 207초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431061
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz
+  6. Who (ID: 7tI8dRuH2Yc6RuoTjxo4dU)
+     - 아티스트: Jimin
+     - 트랙 번호: 6 | 디스크 번호: 1
+     - 길이: 170초 | 인기: 90 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2431062
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU
+  7. Closer Than This (ID: 6qafqn8bBMy7t5c5WqpyRk)
+     - 아티스트: Jimin
+     - 트랙 번호: 7 | 디스크 번호: 1
+     - 길이: 223초 | 인기: 72 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2359569
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk
+------------------------------------------------------------
+
+[앨범] The Chase (2025-02-24) (ID: 2IjkSbisATTpSpVIlFVNkN)
+아티스트: Hearts2Hearts
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273d346fc1102eb417305b5358b
+앨범 종류: single
+레이블: SM Entertainment
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. The Chase (ID: 68UrZQUuO3O6eUiD226xHg)
+     - 아티스트: Hearts2Hearts
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 178초 | 인기: 80 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500047
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg
+  2. Butterflies (ID: 3s3Eo4rb6aq3O62g6z6jtZ)
+     - 아티스트: Hearts2Hearts
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 177초 | 인기: 70 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: KRA302500048
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3s3Eo4rb6aq3O62g6z6jtZ
+------------------------------------------------------------
+
+[앨범] HOT (English ver.) (feat. JADE) (2025-04-14) (ID: 0GjZcJIlYoNHn442Tf0hNT)
+아티스트: LE SSERAFIM, JADE
+앨범 커버: https://i.scdn.co/image/ab67616d0000b27310f1253af109738ad9ecea86
+앨범 종류: single
+레이블: SOURCE MUSIC
+출시일 정밀도: day
+총 트랙 수: 2
+🎵 수록곡 상세 정보:
+  1. HOT (ID: 24Y63uAvj6Oc9jGuTlhlgf)
+     - 아티스트: LE SSERAFIM
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 143초 | 인기: 76 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2506404
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf
+  2. HOT (English ver.) (feat. JADE) (ID: 6MZ8oSuvqMjnvCvwniPNPc)
+     - 아티스트: LE SSERAFIM, JADE
+     - 트랙 번호: 2 | 디스크 번호: 1
+     - 길이: 143초 | 인기: 62 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: USA2P2516966
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/6MZ8oSuvqMjnvCvwniPNPc
+------------------------------------------------------------
+
+[앨범] blue (2024-08-02) (ID: 5aelly3dAJd7yZlgUHpLBw)
+아티스트: yung kai
+앨범 커버: https://i.scdn.co/image/ab67616d0000b273373c63a4666fb7193febc167
+앨범 종류: single
+레이블: BMG Rights Management (US) LLC
+출시일 정밀도: day
+총 트랙 수: 1
+🎵 수록곡 상세 정보:
+  1. blue (ID: 3be9ACTxtcL6Zm4vJRUiPG)
+     - 아티스트: yung kai
+     - 트랙 번호: 1 | 디스크 번호: 1
+     - 길이: 214초 | 인기: 92 | 욕설 포함: No | 로컬곡 여부: No
+     - ISRC 코드: TLVEM2456474
+     - 미리듣기: 미리듣기 없음
+     - 링크: https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG
+------------------------------------------------------------
+
