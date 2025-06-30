@@ -2,21 +2,14 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # ✅ 인증 정보 입력
-client_id = '2ba4d34e04994e64b21753ef7b9ad2c5'
-client_secret = 'db366f14e61d4f52ba1a408801c43d8c'
+client_id = 'SPOTIFY_CLIENT_ID'
+client_secret = 'SPOTIFY_CLIENT_SECRET'
 
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-# ✅ 한국 차트 Top 50 플레이리스트 ID
-korea_top50_playlist_id = '5dGWwsZ9iB2Xc3UKR0gif2'
-
-# ✅ 플레이리스트에서 트랙 추출 → 앨범 ID 추출
-results = sp.playlist_tracks(korea_top50_playlist_id, limit=50)
-album_ids = set()
-for item in results['items']:
-    album = item['track']['album']
-    album_ids.add(album['id'])  # 중복 제거
+# ✅ 앨범 ID (예: Justin Bieber - Justice 앨범 ID)
+album_id = '5dGWwsZ9iB2Xc3UKR0gif2'
 
 # ✅ 앨범 정보 + 수록곡 상세 정보 저장 함수
 def save_album_with_track_details(album_id, filename='testtest.txt'):
@@ -37,7 +30,7 @@ def save_album_with_track_details(album_id, filename='testtest.txt'):
     release_date_precision = album.get('release_date_precision', '정보없음')
 
     with open(filename, 'a', encoding='utf-8') as f:
-        f.write(f"[앨범] {album['name']} ({album['release_date']}) (ID: {album['id']})\n")  # 앨범 ID 추가
+        f.write(f"[앨범] {album['name']} ({album['release_date']}) (ID: {album['id']})\n")
         f.write(f"아티스트: {', '.join(artist['name'] for artist in album['artists'])}\n")
         f.write(f"앨범 커버: {cover_url}\n")
         f.write(f"앨범 종류: {album_type}\n")
@@ -73,10 +66,9 @@ def save_album_with_track_details(album_id, filename='testtest.txt'):
 # ✅ 실행
 output_file = 'testtest.txt'
 with open(output_file, 'w', encoding='utf-8') as f:
-    f.write("📀 한국 차트 기반 최신 앨범 정보 (수록곡 상세 포함)\n")
+    f.write("📀 앨범 정보 (수록곡 상세 포함)\n")
     f.write("=" * 60 + "\n\n")
 
-for album_id in album_ids:
-    save_album_with_track_details(album_id, output_file)
+save_album_with_track_details(album_id, output_file)
 
-print("✅ 한국 최신 앨범 50개 및 수록곡 상세 정보 저장 완료!")
+print("✅ 앨범 정보 및 수록곡 저장 완료!")
