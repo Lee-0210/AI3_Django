@@ -7,12 +7,12 @@ load_dotenv()
 
 # 개인 정보
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id="SPOTIFY_CLIENT_ID",
-    client_secret="SPOTIFY_CLIENT_SECRET"
+    client_id="",
+    client_secret=""
 ))
 
 # 아티스트 아이디
-artist_id = "6qqNVTkY8uBg9cP3Jd7DAH"
+artist_id = "6RHTUrRF63xao58xh9FXYJ"
 artist = sp.artist(artist_id)
 
 albums = sp.artist_albums(
@@ -26,8 +26,6 @@ def sql_escape(value):
     if value is None:
         return ''
     return str(value).replace("'", "''")
-
-
 
 # 아티스트명
 artist_name = sql_escape(artist['name'])

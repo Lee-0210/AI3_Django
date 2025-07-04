@@ -48,5 +48,4 @@ with open("artist_info.txt", "w", encoding="utf-8") as f:
     else:
         f.write("🖼️ 대표 이미지 URL: 없음\n")
 
-
 print("✅ artist_info.txt 에 저장 완료!")
